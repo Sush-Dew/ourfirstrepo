@@ -4,7 +4,7 @@ our begining
 using namespace std;
 int main()
 {
-  cout<<hello world;
-  cout<<we have started github;
+  cout<<"hello world";
+  cout<<"we have started github";
   return 0;
 }
